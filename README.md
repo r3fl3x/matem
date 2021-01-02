@@ -2,4 +2,4 @@
 
 Vietnes adrese:
 
-http://prog.kmu.lv/
+http://r3fl3x.github.com
