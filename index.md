@@ -1,9 +1,9 @@
 ---
 layout: default
-description: Kad nepieciešama palīdzība programmēšanā...
+description: Kā strādāt ar Wordpress paneli
 ---
 
-# Sākumlapa
+# Sākums
 
 
 
@@ -11,5 +11,5 @@ description: Kad nepieciešama palīdzība programmēšanā...
 
 <dl>
     <dt>Materiāla autori:</dt>
-    <dd>Kristaps Muižnieks [ HTML, Javascript, Java, PHP, Python sadaļas] </dd>
+    <dd>rol&5 </dd>
 </dl>
