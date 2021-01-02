@@ -1,6 +1,6 @@
-title: ProgHelp
+title: Matemātika
 lang: lv
-description: Vietne programmēšanas palīdzībai
+description: Matemātikas teorija
 
 remote_theme: rundocs/jekyll-rtd-theme
 readme_index:
@@ -17,7 +17,7 @@ translate:
   # copyright
   revision: Izstrādājis Kristaps Muižnieks (kristaps.muiznieks@bvsk.lv)
   # search
-  searching: Meklē
+  searching: Meklē..
   search: Meklēt
   search_docs: Meklēt dokumentus
   search_results: Meklēt rezultātus
