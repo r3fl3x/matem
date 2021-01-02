@@ -1,6 +1,6 @@
 title: Matemātika
 lang: lv
-description: Matemātikas teorija
+description: Matemātikas teorija un testi
 
 remote_theme: rundocs/jekyll-rtd-theme
 readme_index:
@@ -15,7 +15,7 @@ translate:
   # 404
   not_found: Nekas netika atrasts
   # copyright
-  revision: Izstrādājis Kristaps Muižnieks (kristaps.muiznieks@bvsk.lv)
+  revision: rol&5
   # search
   searching: Meklē..
   search: Meklēt
