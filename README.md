@@ -1,5 +1,5 @@
-Šī lapa paredzēta izglītības nolūkiem. 
+Matemātikas teorija un testi
 
 Vietnes adrese:
 
-http://r3fl3x.github.com
+http://r3fl3x.github.io
